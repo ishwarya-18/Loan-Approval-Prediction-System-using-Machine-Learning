@@ -2,6 +2,8 @@
 
 A web application for predicting loan approval using AI/ML models, built with Next.js and TypeScript.
 
+<img width="1900" height="968" alt="image" src="https://github.com/user-attachments/assets/7c2833c4-7d30-4c53-9602-a3463c9bb132" />
+
 ## Features
 - Loan prediction form (frontend only)
 - Loan comparison tool
